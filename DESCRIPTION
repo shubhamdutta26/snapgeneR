@@ -18,3 +18,5 @@ Imports:
     magrittr,
     stringr,
     xml2
+URL: https://github.com/shubhamdutta26/snapgeneR
+BugReports: https://github.com/shubhamdutta26/snapgeneR/issues
